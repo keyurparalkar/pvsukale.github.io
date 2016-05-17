@@ -1,0 +1,6 @@
+baseurl = "pvsukale.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+canonifyurls = true
+uglyurls = true
+relativeURLS=true
