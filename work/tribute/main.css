@@ -79,15 +79,20 @@ a:active {color:white;}
 .new-text{
   width:400px; margin:0 auto;
   text-align: justify;
+  color: #555;
 }
 @media (max-width: 760px) { 
 
 .mainimg{
 height: 220px;
 width:252px;
-left:20%;}
+left:15%;}
 .quote{
   padding-top: 5rem;
+}
+.infop{
+
+  max-width: 40em;
 }
 
 
