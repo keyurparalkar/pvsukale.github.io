@@ -92,16 +92,19 @@ a:active {color:white;}
 @media (max-width: 760px) { 
 
 .mainimg{
+  align-self: center;
 height: 225px;
 width:252px;
 }
 .quote{
+  text-align: center;
+  align-self: center;
   padding-left: 3rem;
   padding-top: 5rem;
 }
 .infop{
 
-  max-width: 40em;
+  max-width: 80%;
 }
 .new-text{
   text-align: center;
