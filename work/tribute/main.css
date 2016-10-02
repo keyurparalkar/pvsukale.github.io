@@ -1,0 +1,77 @@
+   
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+    .mainimg{
+  
+  
+  
+  left: 30%;
+}
+
+
+.beg{
+
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.title{
+
+    font-size: 60px;
+    
+font-family: 'Roboto', sans-serif;
+
+
+text-shadow: 2px 4px 3px rgba(0,0,0,0.6);
+}
+.quote{
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.4);
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    font-size: 24px;
+    padding-top: 20rem;
+}
+.topclass{
+padding-top: 8%;
+
+}
+.newhead{
+
+background: #0275d8;
+color: white;
+
+padding-bottom: 45px;
+}
+.infop{
+    font-family: "Helvetica", "Arial", sans-serif;
+    margin: 0 auto;
+    
+    
+    
+    
+    font-size: 18px;
+   line-height: 1.7;
+  padding: 4em 1em;
+    max-width: 50em;
+    text-align: center; 
+    color: color: #555;
+}
+.foot{padding: 30px;
+    box-sizing: border-box;
+    background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
+
+}
+.icons{
+    padding: 30px;
+     color:white;
+     margin-top: 10px;
+}
+.foot-para{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 15px;
+     text-align: center;
+    color: white;
+}
+a {color:white;}      /* unvisited link */
+a:visited {color:white;}  /* visited link */
+a:hover {color: white;}  /* mouse over link */
+a:active {color:white;}
