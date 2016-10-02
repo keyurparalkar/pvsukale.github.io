@@ -80,3 +80,15 @@ a:active {color:white;}
   width:400px; margin:0 auto;
   text-align: justify;
 }
+@media (max-width: 760px) { 
+
+.mainimg{
+height: 220px;
+width:252px;
+left:20%;}
+.quote{
+  padding-top: 5rem;
+}
+
+
+}
