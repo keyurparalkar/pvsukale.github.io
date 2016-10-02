@@ -98,6 +98,13 @@ left:15%;}
 .new-text{
   text-align: center;
 }
+.icons{
+  text-align: center;
+  float:left;
+  clear: left;
+  position: relative;
+  left: 40%;
+}
 
 
 }
