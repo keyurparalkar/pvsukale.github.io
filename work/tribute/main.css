@@ -92,9 +92,9 @@ a:active {color:white;}
 @media (max-width: 760px) { 
 
 .mainimg{
-height: 220px;
+height: 225px;
 width:252px;
-left:15%;}
+}
 .quote{
   padding-left: 3rem;
   padding-top: 5rem;
