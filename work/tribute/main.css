@@ -52,7 +52,7 @@ padding-bottom: 45px;
    line-height: 1.7;
   padding: 4em 1em;
     max-width: 50em;
-    text-align: center; 
+    text-align: justify;
     color: color: #555;
 }
 .foot{padding: 30px;
@@ -75,3 +75,8 @@ a {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color: white;}  /* mouse over link */
 a:active {color:white;}
+
+.new-text{
+  width:400px; margin:0 auto;
+  text-align: justify;
+}
