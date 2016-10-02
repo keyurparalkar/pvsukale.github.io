@@ -1,12 +1,16 @@
    
 @import 'https://fonts.googleapis.com/css?family=Roboto';
-    .mainimg{
-  
-  
-  
-  left: 30%;
-}
+   .flex2{
 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+   }
+.mainimg{
+  align-self: 
+}
 
 .beg{
 
@@ -24,11 +28,14 @@ font-family: 'Roboto', sans-serif;
 text-shadow: 2px 4px 3px rgba(0,0,0,0.6);
 }
 .quote{
+  padding-left: 50px;
+  display: inline-block;
     text-shadow: 2px 4px 3px rgba(0,0,0,0.4);
     font-family: "Helvetica", "Arial", sans-serif;
     text-shadow: 0 1px 0 rgba(0,0,0,.1);
     font-size: 24px;
-    padding-top: 20rem;
+    padding-top: 5rem;
+    
 }
 .topclass{
 padding-top: 8%;
@@ -112,6 +119,11 @@ left:15%;}
 .fa-3x{
 
   font-size: 2em;
+}
+.flex2{
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
 
 
