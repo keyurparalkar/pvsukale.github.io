@@ -9,7 +9,7 @@
     align-content: space-around;
    }
 .mainimg{
-  align-self: 
+  
 }
 
 .beg{
@@ -122,7 +122,7 @@ width:252px;
 }
 .flex2{
 flex-direction: column;
-justify-content: center;
+justify-content: space-between;
 align-items: center;
 }
 
