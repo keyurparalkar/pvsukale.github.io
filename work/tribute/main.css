@@ -65,11 +65,7 @@ padding-bottom: 45px;
      color:white;
      margin-top: 10px;
 }
-.icons1{
-   padding: 30px;
-     color:white;
-     margin-top: 10px;
-}
+
 .foot-para{
     font-family: 'Roboto', sans-serif;
     padding-top: 15px;
@@ -106,13 +102,12 @@ left:15%;}
 .icons{
   
   float:left;
-  
+  clear: left;
+  position: relative;
+  left: 40%;
 
 }
-.icons1{
-float:right;
 
-}
 
 
 }
